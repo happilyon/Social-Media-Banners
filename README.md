@@ -1,5 +1,7 @@
 Social media banners, created in SVG format for easy customization, more networks and patterns soon...
 
+We have used the recomended banner size dimensions just oen these inside Inkscape or Illustrator and export as PNG after modifying 
+
 # License
 
 [Creative Commons](https://creativecommons.org/licenses/by/3.0)
@@ -14,8 +16,8 @@ To modify and customize banners, color, size and type of image etc. use free pro
 
 [INKSCAPE](https://inkscape.org)
 
-# Social-Media-Banners
+# Social Media Banners
 
-A growing library of scalable vector graphics, created for infographic elements. To request custom packs or individual icons reach us here 
+A growing collection of social media banners, created in SVG format. To request customizations or other networks, reach us here 
 
 [Happilyon.com/reach](http://www.happilyon.com/reach/)
