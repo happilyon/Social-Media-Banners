@@ -1,6 +1,6 @@
-Social media banners, created in SVG format for easy customization, more networks and patterns soon...
+Social media banners, created in SVG format, more networks and patterns soon...
 
-We have used the recomended banner size dimensions just oen these inside Inkscape or Illustrator and export as PNG after modifying 
+We have used the recomended banner size dimensions just open these inside Inkscape or Illustrator and export as PNG after modifying and customizing, default color left as black. 
 
 # License
 
