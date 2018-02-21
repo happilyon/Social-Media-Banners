@@ -24,3 +24,7 @@ To modify and customize banners, color, size and type of image etc. use free pro
 A growing collection of social media banners, created in SVG format. To request customizations or other networks, reach us here 
 
 [Happilyon.com/reach](http://www.happilyon.com/reach/)
+
+Watch this two minute Inkscape quick start guide
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/1FM02a3viT4/0.jpg)](http://www.youtube.com/watch?v=1FM02a3viT4 "Video Title")
