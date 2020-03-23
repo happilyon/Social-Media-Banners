@@ -27,4 +27,4 @@ A growing collection of social media banners, created in SVG format. To request 
 
 Watch this two minute Inkscape quick start guide
 
-(https://youtu.be/0G4EWyDSvzE)
+https://youtu.be/0G4EWyDSvzE
